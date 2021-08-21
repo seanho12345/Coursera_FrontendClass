@@ -1,0 +1,44 @@
+#header-nav{
+    background-color: rgb(185, 218, 248);
+    border: 0px
+}
+
+#company-brand{
+    margin: 15px 8px;
+    padding: 18px;
+    color: black;
+    font-size: 3em;
+    font-style: normal;
+}
+
+.navbar-toggle{
+    margin: 24px;
+    background-color: white; 
+}
+
+.navbar-toggle > span{
+    color:white; 
+ }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+border: 1px solid black;
+}
+
+#nav-list{
+    background-color: whitesmoke;
+    margin: 0px -15px;
+
+}
+#nav-list a{
+    text-align: center;
+    color: black
+}
+
+
+#content{
+    height: 1200px;
+    background-color:rgb(129, 255, 213)
+}
+
+#content h2{
+    text-align: center;
+}
